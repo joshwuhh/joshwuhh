@@ -1,9 +1,22 @@
-### Hi there 👋
+### 👋 Hola, Joshuah here
+#### I'm a business analyst, programmer and lover of nature!
+![I'm a business analyst, programmer and lover of nature!](https://media.licdn.com/dms/image/D5616AQFFokWWhYmRkw/profile-displaybackgroundimage-shrink_350_1400/0/1711465615126?e=1717027200&v=beta&t=qvpj8j_rBIuj5T0eHvD1uZdE0wGxgOd-_DoCI-bkEW8)
+
+I'm Joshuah from New Jersey! I do development and data analytics with an emphasis on business growth. I love learning new languages and creating things that bring results. The impact from insights I make are what keep me driving to new heights!
+
+Skills: C++ / Swift / Python / SQL 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 <!--
 **joshwuhh/joshwuhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
