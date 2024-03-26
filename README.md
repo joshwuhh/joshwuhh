@@ -6,8 +6,9 @@ I'm Joshuah from New Jersey! I do development and data analytics with an emphasi
 
 Skills: C++ / Swift / Python / SQL 
 
-- 🔭 I’m currently working on this page. 
-
+- 🔭 I’m currently working on a coffee data analysis project and earning another certification to build my skillset!
+- 🌱 I’m currently learning deeply about excel.
+- ⚡ Fun fact: I play eletric guitar and love to cook! I even grow my own herbs in my apartment!
 
 
 
