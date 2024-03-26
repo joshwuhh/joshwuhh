@@ -15,6 +15,9 @@ I'm Joshuah from New Jersey! I do development and data analytics with an emphasi
 - 🌱 I’m currently learning deeply about excel.
 - ⚡ Fun fact: I play eletric guitar and love to cook! I even grow my own herbs in my apartment!
 
+## Projects
+
+
 ## Connect with me!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/joshwuhh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joshuahjrodriguez//)  
