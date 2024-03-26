@@ -1,4 +1,4 @@
-### 👋 Hola, Joshuah here
+### [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hola, Joshuah here
 #### I'm a business analyst, programmer and lover of nature!
 ![I'm a business analyst, programmer and lover of nature!](https://media.licdn.com/dms/image/D5616AQFFokWWhYmRkw/profile-displaybackgroundimage-shrink_350_1400/0/1711465615126?e=1717027200&v=beta&t=qvpj8j_rBIuj5T0eHvD1uZdE0wGxgOd-_DoCI-bkEW8)
 
